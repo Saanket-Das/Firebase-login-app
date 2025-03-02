@@ -56,11 +56,3 @@ Logout by calling mAuth.signOut()
 
 Redirects to RegisterActivity for new users
 
-Screenshots
-
-Add screenshots of your app interface here.
-
-License
-
-This project is licensed under the MIT License.
-
